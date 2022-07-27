@@ -38,6 +38,20 @@ Strings in Python are defined as a contiguous set of characters represented in t
 The plus (+) sign is the string concatenation operator and the asterisk (*) is the repetition operator. For example:
 ```md
 str = 'Hello World!'
-print(str)  # Prints complete string
-print(str[0]) # Prints first character of the string
+print(str)              # Prints complete string
+print(str[0])           # Prints first character of the string
+print(str[2:5])         # Prints character starting from 3rd to 5th (i.e., index 2 to index 4)
+print(str[2:])          # Prints string starting from 3rd character 
+print(str * 2)          # Print string two times
+print(str + "test")     # Prints concatenated string
+```
+
+This will produce the following result:
+```md
+Hello World!
+H
+llo
+llo World!
+Hello World!Hello World!
+Hello World!test
 ```
