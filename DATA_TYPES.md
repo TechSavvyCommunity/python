@@ -60,5 +60,23 @@ Hello World!test
 Lists are the most versatile of Python's compound data types. A list contains items separated by commas and enclosed within square brackets ([]). To some extent, lists are similar to arrays in C. One difference between them is that all the items belonging to a list can be of different data type. <br>
 The values sorted in a list can be accessed using the slice operator ([] and [:]) with indexes starting at 0 in the beginnnig of the list and working their way to end -1. The plus (+) sign is the concatenation operator, and the asterisk (*) is the repetition operator. For example:
 ```md
-list = ['ANUJ', 100]
+list = ['ANUJ', 100, 500, 1000]
+small_list = [786, 'Python']
+print(list)                       # Prints comlete list
+print(list[0])                    # Prints first element of the list
+print(list[1:3])                  # Prints elements starting from 2nd till 3rd
+print(list[2:])                   # Prints elements starting from 3rd element
+print(small_list * 2)             # Prints small_list two times
+print(list + small_list)          # Prints concatenated lists
 ```
+
+This produce the following result -
+```md
+['ANUJ', 100, 500, 1000]
+ANUJ
+[100, 500]
+[500, 1000]
+[786, 'Python', 786, 'Python']
+['ANUJ', 100, 500, 1000, 786, 'Python']
+```
+
