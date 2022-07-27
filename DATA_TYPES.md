@@ -94,7 +94,7 @@ print(small_tuple * 2)          # Prints small_tuple two times
 print(tuple + small_tuple)      # Prints concatenated tuples
 ```
 
-This produce the following result - <br>
+This produce the following result - 
 ```md
 ('ANUJ', 100, 500, 1000)
 ANUJ
@@ -104,4 +104,10 @@ ANUJ
 ('ANUJ', 100, 500, 1000, 786, 'Python')
 ```
 
-
+The following code is invalid with tuple, because we attempted to update a tuple, which is not allowed. Similar case is possible with lists - 
+```md
+tuple = ('ANUJ', 100, 500, 1000)
+list = ['ANUJ', 100, 500, 1000]
+tuple[2] = 1000                 # Invalid syntax with tuple
+list[2] = 1000                  # Valid syntax with list
+```
