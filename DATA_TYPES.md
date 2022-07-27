@@ -80,3 +80,28 @@ ANUJ
 ['ANUJ', 100, 500, 1000, 786, 'Python']
 ```
 
+# Python Tuples
+A tuple is another sequence data type that is similar to the list. A tuple consists of a number of values separated by commas. Unlike lists, however, tuples are enclosed within parenteses. <br>
+The main differences between lists and tuples are: Lists are enclosed in brackets ([]) and their elements and size can be changed, while tuples are enclosed in parentheses (()) and cannot be updated. Tuples can be thought of as read-only lists. For example:
+```md
+tuple = ('ANUJ', 100, 500, 1000)
+small_tuple = (786, 'Python')
+print(tuple)                    # Prints complete tuple
+print(tuple[0])                 # Prints first elements of the tuple
+print(tuple[1:3])               # Prints element starting from 2nd till 3rd
+print(tuple[2:])                # Prints elements starting from 3rd elements
+print(small_tuple * 2)          # Prints small_tuple two times
+print(tuple + small_tuple)      # Prints concatenated tuples
+```
+
+This produce the following result - <br>
+```md
+('ANUJ', 100, 500, 1000)
+ANUJ
+(100, 500)
+(500, 1000)
+(786, 'Python', 786, 'Python')
+('ANUJ', 100, 500, 1000, 786, 'Python')
+```
+
+
