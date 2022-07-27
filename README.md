@@ -15,3 +15,4 @@ Many <b> developing tools </b> are implemented in Python. More and more <b> ever
 As a learning entusiast, you have to visit as follows - 
 1. <a href="https://github.com/TechSavvyCommunity/python/blob/main/INTRODUCTION.md">INTRODUCTION</a> <br>
 2. <a href="https://github.com/TechSavvyCommunity/python/blob/main/BASIC_SYNTAX.md">Basic Syntax</a> <br>
+3. <a href="https://github.com/TechSavvyCommunity/python/blob/main/VARIABLE_TYPES.md">Variable Type</a> <br>
