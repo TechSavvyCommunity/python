@@ -19,3 +19,4 @@ As a learning entusiast, you have to visit as follows -
 4. <a href="https://github.com/TechSavvyCommunity/python/blob/main/DATA_TYPES.md">Data Types</a> <br>
 
 # :pray: Support
+This project needs a :star: from you. Don't forget to leave a :star:.
