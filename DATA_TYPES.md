@@ -55,3 +55,10 @@ llo World!
 Hello World!Hello World!
 Hello World!test
 ```
+
+# Python Lists
+Lists are the most versatile of Python's compound data types. A list contains items separated by commas and enclosed within square brackets ([]). To some extent, lists are similar to arrays in C. One difference between them is that all the items belonging to a list can be of different data type. <br>
+The values sorted in a list can be accessed using the slice operator ([] and [:]) with indexes starting at 0 in the beginnnig of the list and working their way to end -1. The plus (+) sign is the concatenation operator, and the asterisk (*) is the repetition operator. For example:
+```md
+list = ['ANUJ', 100]
+```
