@@ -16,3 +16,4 @@ As a learning entusiast, you have to visit as follows -
 1. <a href="https://github.com/TechSavvyCommunity/python/blob/main/INTRODUCTION.md">INTRODUCTION</a> <br>
 2. <a href="https://github.com/TechSavvyCommunity/python/blob/main/BASIC_SYNTAX.md">Basic Syntax</a> <br>
 3. <a href="https://github.com/TechSavvyCommunity/python/blob/main/VARIABLE_TYPES.md">Variable Type</a> <br>
+4. <a href="https://github.com/TechSavvyCommunity/python/blob/main/DATA_TYPES.md">Data Types</a> <br>
