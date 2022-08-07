@@ -13,7 +13,7 @@ Many <b> developing tools </b> are implemented in Python. More and more <b> ever
 
 ## Way to explore the repository
 As a learning entusiast, you have to visit as follows - 
-1. (/Main/INTRODUCTION.md)[INTRODUCTION]
+1. [INTRODUCTION](/Main/INTRODUCTION.md)
 2. [Basic Syntax](/Main/BASIC_SYNTAX.md)
 3. [Variable Type](/Main/VARIABLE_TYPES.md)
 4. [Data Types](/Main/DATA_TYPES.md)
