@@ -13,11 +13,11 @@ Many <b> developing tools </b> are implemented in Python. More and more <b> ever
 
 ## Way to explore the repository
 As a learning entusiast, you have to visit as follows - 
-1. [INTRODUCTION](/Main/INTRODUCTION.md)
+1. [Introduction](/Main/INTRODUCTION.md)
 2. [Basic Syntax](/Main/BASIC_SYNTAX.md)
 3. [Variable Type](/Main/VARIABLE_TYPES.md)
 4. [Data Types](/Main/DATA_TYPES.md)
-5. [Data type conversion](/Main/DATA_TYPE_CONVERSION.md)
+5. [Data Type Conversion](/Main/DATA_TYPE_CONVERSION.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
