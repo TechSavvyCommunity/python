@@ -17,6 +17,7 @@ As a learning entusiast, you have to visit as follows -
 2. <a href="https://github.com/TechSavvyCommunity/python/blob/main/BASIC_SYNTAX.md">Basic Syntax</a> <br>
 3. <a href="https://github.com/TechSavvyCommunity/python/blob/main/VARIABLE_TYPES.md">Variable Type</a> <br>
 4. <a href="https://github.com/TechSavvyCommunity/python/blob/main/DATA_TYPES.md">Data Types</a> <br>
+5. [Data type conversion](DATA_TYPE_CONVERSION.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
