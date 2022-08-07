@@ -18,7 +18,7 @@ As a learning entusiast, you have to visit as follows -
 3. [Variable Type](/Main/VARIABLE_TYPES.md)
 4. [Data Types](/Main/DATA_TYPES.md)
 5. [Data Type Conversion](/Main/DATA_TYPE_CONVERSION.md)
-6. [Operaors](/Main/OPERATORS.md)
+6. [Operators](/Main/OPERATORS.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
