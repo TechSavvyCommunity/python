@@ -23,6 +23,8 @@ Assume variable a = 20 and b = 30, then: <br>
 | 5.  | % | Modulus | Divides left hand operand by right hand operator and returns remainder  | b % a = 10  |
 | 6.  | **  | Exponent  | Performs exponential (power) calculation on operators | a ** b = 20 to the power 30 |
 | 7.  | //  | Floor Division  | The division of operands where the result is the quotient in which the digits after the decimal points are removed. But if one of the operand is negative, the result is floored, i.e., rounded away from zero (towards negative infinity) |  9 // 2 = 4 and 9.0 // 2.0 = 4.0, -11 // 3 = -4, -11.0 / /3 = -4.0 |
+<br>
+Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#arithmetic-operators">Programs</a> for more practical approach.
 
 ## Comparison Operators
 These operators compare the values on either sides of them and decide the relation among them. They are also called relational operators. <br>
