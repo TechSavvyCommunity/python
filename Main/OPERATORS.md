@@ -38,4 +38,4 @@ Assume variable a = 20 and b = 30, then: <br>
 | 5.  | >=  | Greater Than or Equal To  | If the value of the left operand is greater than or equals to the value of the right operand, then the condition becomes true.  | (a >= b) is not true. |
 | 6.  | <=  | Less Than or Equal To | If the value of the lest operand is less than or equals to the value of the right operand, then the condition becomes true. | (a <= b) is true  |
 <br>
-Click on 👉 [Programs](https://github.com/bishtanuj/python/tree/main/Operators#comparison-operators) for more practical approach.
+Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#comparison-operators">Programs</a> for more practical approach.
