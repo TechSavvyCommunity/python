@@ -35,4 +35,5 @@ Assume variable a = 20 and b = 30, then: <br>
 | 4.  | < | Less Than | If the value of the left operand is less, than the value of right operand, then the condition becomes true. | (a < b) is true |
 | 5.  | >=  | Greater Than or Equal To  | If the value of the left operand is greater than or equals to the value of the right operand, then the condition becomes true.  | (a >= b) is not true. |
 | 6.  | <=  | Less Than or Equal To | If the value of the lest operand is less than or equals to the value of the right operand, then the condition becomes true. | (a <= b) is true  |
+<br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators">Programs</a> for more practical approach.
