@@ -39,3 +39,10 @@ Assume variable a = 20 and b = 30, then: <br>
 | 6.  | <=  | Less Than or Equal To | If the value of the lest operand is less than or equals to the value of the right operand, then the condition becomes true. | (a <= b) is true  |
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#comparison-operators">Programs</a> for more practical approach.
+
+## Assignment Operators
+Assume variable a = 20 and b = 30, then: <br>
+| S.No. | Operator  | Description | Example |
+| :---: | :---: | :---: | :---: |
+| 1.  | = | Assign values from right side operands to left side operand | (c = a + b) assigns value of a + b into c |
+| 2.  | +=  | It adds right operand to teh left operand and assign the result to the left operand | c += a is equivalent to c = c + a |
