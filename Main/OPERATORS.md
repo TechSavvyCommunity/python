@@ -55,12 +55,21 @@ Assume variable a = 20 and b = 30, then: <br>
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#assignment-operators">Programs</a> for more practical approach.
 
-## Bitwise Operators
+<!-- ## Bitwise Operators
 **Bitwise operators works on bits and perform bit by bit operation. Let's assume a = 60 and b = 13; Now in binary format their values will be 00111100 and 00001101 respectively.** <br>
 Therefore, here a = 00111100 and b = 00001101, then: <br>
-
 | S.No. | Operator | Name  | Description | Example |
 | :---: | :---: | :--- :  | :---: | :---: |
 | 1.  | & | Binary AND  | Operator copies a bit to the result if it exists in both operands | (a & b) means 0000 1100 |
-| 2.  | l | Binary OR | It copies a bit if it exists in either operand. | (a l b) = 61 means 0011 1101  | 
+| 2.  | l | Binary OR | It copies a bit if it exists in either operand. | (a l b) = 61 means 0011 1101  |  -->
+## Bitwise Operators
+**Bitwise operators are operators used to compare (binary) numbers.**
+| **Operators** | **Name** | **Description** | **Program** |
+| :---: | :---: | :---: | :---: |
+| & | AND | Sets each bit to 1 if both bits are 1 | |
+| l | OR | Sets each bit to 1 if one of the two bits is 1 | |
+| ^ | XOR | Sets each bit to 1 if only one of two bits is 1 | |
+| ~ | NOT | Inverts all the bits | |
+| << | Zero fill left shift | Shift left by pushing zeroes in form the right and let the leftmost bits fall of | |
+| >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall of | |
 
