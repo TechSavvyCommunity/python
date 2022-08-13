@@ -54,3 +54,12 @@ Assume variable a = 20 and b = 30, then: <br>
 | 8.  | // = |  It performs floor division on operators and assign value to the left operand  | c // = a is equivalent to c = c // a  |
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#assignment-operators">Programs</a> for more practical approach.
+
+## Bitwise Operators
+**Bitwise operators works on bits and perform bit by bit operation. Let's assume a = 60 and b = 13; Now in binary format their values will be 00111100 and 00001101 respectively.** <br>
+Therefore, here a = 00111100 and b = 00001101, then: <br>
+| S.No. | Operator | Name  | Description | Example |
+| :---: | :---: | :--- :  | :---: | :---: |
+| 1.  | & | Binary AND  | Operator copies a bit to the result if it exists in both operands | (a & b) means 0000 1100 |
+| 2.  | l | Binary OR | It copies a bit if it exists in either operand. | (a l b) = 61 means 0011 1101  | 
+
