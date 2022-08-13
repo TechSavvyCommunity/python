@@ -27,7 +27,7 @@ Assume variable a = 20 and b = 30, then: <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#arithmetic-operators">Programs</a> for more practical approach.
 
 ## Comparison Operators
-These operators compare the values on either sides of them and decide the relation among them. They are also called relational operators. <br>
+**These operators compare the values on either sides of them and decide the relation among them. They are also called relational operators.** <br>
 Assume variable a = 20 and b = 30, then: <br>
 | S.No. | Operator | Name  | Description | Example |
 | :---: | :---: | :---: | :---: | :---: |
