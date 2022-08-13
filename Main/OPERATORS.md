@@ -45,4 +45,8 @@ Assume variable a = 20 and b = 30, then: <br>
 | S.No. | Operator  | Description | Example |
 | :---: | :---: | :---: | :---: |
 | 1.  | = | Assign values from right side operands to left side operand | (c = a + b) assigns value of a + b into c |
-| 2.  | +=  | It adds right operand to teh left operand and assign the result to the left operand | c += a is equivalent to c = c + a |
+| 2.  | + =  | It adds right operand to teh left operand and assign the result to the left operand | c += a is equivalent to c = c + a |
+| 3.  | - =  | It subtracts right operand from the left operand and assign the result to the left operand  | c -= a is equivalent to c = c - a |
+| 4.  | * =  | It multiplies right operand with the left operand and assign the result to the left operand | c * = a is equivalent to c = c * a |
+| 5.  | / =  | It divides the left operand with the right operand and assign the result to the left operand  | c /= a is equivalent to c = c / a |
+| 6.  | % =  | It takes modulus using two operands and assign the result to left operand | c %= a is equivalent to c = c % a |
