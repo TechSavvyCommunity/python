@@ -63,7 +63,7 @@ Therefore, here a = 00111100 and b = 00001101, then: <br>
 | 1.  | & | Binary AND  | Operator copies a bit to the result if it exists in both operands | (a & b) means 0000 1100 |
 | 2.  | l | Binary OR | It copies a bit if it exists in either operand. | (a l b) = 61 means 0011 1101  |  -->
 ## Bitwise Operators
-**Bitwise operators are operators used to compare (binary) numbers.**
+**Bitwise operators works on bits and perform bit by bit operation. Let's assume a = 60 and b = 13; Now in binary format their values will be 00111100 and 00001101 respectively.** 
 | **Operators** | **Name** | **Description** | **Program** |
 | :---: | :---: | :---: | :---: |
 | & | AND | Sets each bit to 1 if both bits are 1 | |
