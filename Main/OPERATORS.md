@@ -50,3 +50,7 @@ Assume variable a = 20 and b = 30, then: <br>
 | 4.  | * =  | It multiplies right operand with the left operand and assign the result to the left operand | c * = a is equivalent to c = c * a |
 | 5.  | / =  | It divides the left operand with the right operand and assign the result to the left operand  | c /= a is equivalent to c = c / a |
 | 6.  | % =  | It takes modulus using two operands and assign the result to left operand | c %= a is equivalent to c = c % a |
+| 7.  | * * = | Performs exponential (power) calculation on operators and assign values to the left operand | c * * = a is equivalent to c = c * * = a  |
+| 8.  | // = |  It performs floor division on operators and assign value to the left operand  | c // = a is equivalent to c = c // a  |
+<br>
+Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#assignment-operators">Programs</a> for more practical approach.
