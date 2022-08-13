@@ -65,12 +65,12 @@ Therefore, here a = 00111100 and b = 00001101, then: <br>
 ## Bitwise Operators
 **Bitwise operators works on bits and perform bit by bit operation. Let's assume a = 60 and b = 13; Now in binary format their values will be 00111100 and 00001101 respectively.**  <br>
 Therefore, here a = 00111100 and b = 00001101, then:
-| **Operators** | **Name** | **Description** | **Program** |
-| :---: | :---: | :---: | :---: |
-| & | AND | Sets each bit to 1 if both bits are 1 | |
-| l | OR | Sets each bit to 1 if one of the two bits is 1 | |
-| ^ | XOR | Sets each bit to 1 if only one of two bits is 1 | |
-| ~ | NOT | Inverts all the bits | |
-| << | Zero fill left shift | Shift left by pushing zeroes in form the right and let the leftmost bits fall of | |
-| >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall of | |
+| S.No. | Operator | Name  | Description | Example |
+| :---: | :---: | :---: | :---: | :---: |
+| 1.  | & | AND | Sets each bit to 1 if both bits are 1 | |
+| 2.  | l | OR | Sets each bit to 1 if one of the two bits is 1 | |
+| 3.  | ^ | XOR | Sets each bit to 1 if only one of two bits is 1 | |
+| 4.  | ~ | NOT | Inverts all the bits | |
+| 5.  | << | Zero fill left shift | Shift left by pushing zeroes in form the right and let the leftmost bits fall of | |
+| 6.  | >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall of | |
 
