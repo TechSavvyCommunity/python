@@ -74,7 +74,7 @@ Assume variable a = 10 and b = 20, then: <br>
 | S.No. | Operator  | Name  | Description | Example |
 | :---: | :---: | :---: | :---: | :---: |
 | 1.  | AND | Logical AND | If both the operands are true then condition becomes true.  | (a and b) is true |
-| 2.  | OR  | Logical OR  | If any of the two operands are non-zero then condition becomes true.  | (a or b| is true  |
+| 2.  | OR  | Logical OR  | If any of the two operands are non-zero then condition becomes true.  | (a or b) is true  |
 | 3.  | NOT | Logical NOT | Used to reverse the logical state of its operand. | Not(a and b) is false |
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#logical-operators">Programs</a> for more practical approach.
