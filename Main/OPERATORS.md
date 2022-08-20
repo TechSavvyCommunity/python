@@ -69,8 +69,8 @@ Therefore, here a = 00111100 and b = 00001101, then:
 | :---: | :---: | :---: | :---: | :---: |
 | 1.  | & | Binary AND  | Operator copies a bit to the result if it exists in both operands | (a & b) means 0000 1100 |
 | 2.  | l | Binary OR | It copies a bit if it exists in either operand. | (a l b) = 61 means 0011 1101 |
-<!-- | 3.  | ^ | XOR | Sets each bit to 1 if only one of two bits is 1 | |
-| 4.  | ~ | NOT | Inverts all the bits | |
-| 5.  | << | Zero fill left shift | Shift left by pushing zeroes in form the right and let the leftmost bits fall of | |
-| 6.  | >> | Signed right shift | Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall of | | -->
+| 3.  | ^ | XOR | It copies the bit if it is set in one operand but not both. |  (a ^ b) = 49 (means 0011 0001) |
+| 4.  | ~ | NOT | It is unary and has the effect of 'flipping' bits. |  (~a ) = -61 (means 1100 0011 in 2's complement form due to a signed binary number. |
+| 5.  | << | Binary left shift | The left operands value is moved left by the number of bits specified by the right operand. |  a << 2 = 240 (means 1111 0000) |
+| 6.  | >> | Binary right shift | The left operands value is moved right by the number of bits specified by the right operand. |  a >> 2 = 15 (means 0000 1111) | 
 
