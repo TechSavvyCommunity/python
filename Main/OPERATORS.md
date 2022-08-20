@@ -26,7 +26,7 @@ Assume variable a = 20 and b = 30, then: <br>
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#arithmetic-operators">Programs</a> for more practical approach.
 
-## Comparison Operators
+### Comparison Operators
 **These operators compare the values on either sides of them and decide the relation among them. They are also called relational operators.** <br>
 Assume variable a = 20 and b = 30, then: <br>
 | S.No. | Operator | Name  | Description | Example |
@@ -40,7 +40,7 @@ Assume variable a = 20 and b = 30, then: <br>
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#comparison-operators">Programs</a> for more practical approach.
 
-## Assignment Operators
+### Assignment Operators
 Assume variable a = 20 and b = 30, then: <br>
 | S.No. | Operator  | Description | Example |
 | :---: | :---: | :---: | :---: |
@@ -55,7 +55,7 @@ Assume variable a = 20 and b = 30, then: <br>
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#assignment-operators">Programs</a> for more practical approach.
 
-## Bitwise Operators
+### Bitwise Operators
 **Bitwise operators works on bits and perform bit by bit operation. Let's assume a = 60 and b = 13; Now in binary format their values will be 00111100 and 00001101 respectively.**  <br>
 Therefore, here a = 00111100 and b = 00001101, then:
 | S.No. | Operator | Name  | Description | Example |
@@ -69,7 +69,7 @@ Therefore, here a = 00111100 and b = 00001101, then:
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#bitwise-operators">Programs</a> for more practical approach.
 
-## Logical Operators
+### Logical Operators
 Assume variable a = 10 and b = 20, then: <br>
 | S.No. | Operator  | Name  | Description | Example |
 | :---: | :---: | :---: | :---: | :---: |
@@ -79,7 +79,7 @@ Assume variable a = 10 and b = 20, then: <br>
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#logical-operators">Programs</a> for more practical approach.
 
-## Membership Operators
+### Membership Operators
 **Membership operators are operators used to validate the membership of a value. It test for a membership in a sequence such as strings, lists or tuples.** 
 | S.No. | Operator  | Description | Example |
 | :---: | :---: | :---: | :---: |
@@ -88,7 +88,7 @@ Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#l
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#membership-operators">Programs</a> for more practical approach.
 
-## Identity Operators
+### Identity Operators
 **Identify operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.**
 | S.No. | Operator  | Description | Example |
 | :---: | :---: | :---: | :---: |
@@ -97,3 +97,4 @@ Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#m
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#identity-operators">Programs</a> for more practical approach.
 
+##
