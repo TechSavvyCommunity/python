@@ -66,4 +66,5 @@ Therefore, here a = 00111100 and b = 00001101, then:
 | 4.  | ~ | NOT | It is unary and has the effect of 'flipping' bits. |  (~a ) = -61 (means 1100 0011 in 2's complement form due to a signed binary number. |
 | 5.  | << | Binary left shift | The left operands value is moved left by the number of bits specified by the right operand. |  a << 2 = 240 (means 1111 0000) |
 | 6.  | >> | Binary right shift | The left operands value is moved right by the number of bits specified by the right operand. |  a >> 2 = 15 (means 0000 1111) | 
+<br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#bitwise-operators">Programs</a> for more practical approach.
