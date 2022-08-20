@@ -88,4 +88,12 @@ Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#l
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#membership-operators">Programs</a> for more practical approach.
 
-##
+## Identity Operators
+**Identify operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.**
+| S.No. | Operator  | Description | Example |
+| :---: | :---: | :---: | :---: |
+| 1.  | is  | Evaluates to true if teh variable on either side of the operator point tot eh same object and false otherwise.  | x is y, here is results in 1 if id (x) is equals to id (y) |
+| 2.  | is not  | Evaluates to false if the variables on either side of the operator point to the same object and true otherwise. | x is not y, here is not results in 1 if id (x) is not equal to id (y) |
+<br>
+Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#identity-operators">Programs</a> for more practical approach.
+
