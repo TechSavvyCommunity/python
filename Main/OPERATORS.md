@@ -78,3 +78,14 @@ Assume variable a = 10 and b = 20, then: <br>
 | 3.  | NOT | Logical NOT | Used to reverse the logical state of its operand. | Not(a and b) is false |
 <br>
 Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#logical-operators">Programs</a> for more practical approach.
+
+## Membership Operators
+**Membership operators are operators used to validate the membership of a value. It test for a membership in a sequence such as strings, lists or tuples.** 
+| S.No. | Operator  | Description | Example |
+| :---: | :---: | :---: | :---: |
+| 1.  | in  | Evaluates to true if it finds a variable in the specified sequence and false otherwise. | x in y, here results in a 1 if x is a member of sequence y. |
+| 2.  | not in  | Eveluates to true if it does not finds a variable in the specified sequence and false otherwise.  | x not in y, here not in results in a 1 if x is not a member of sequence y.  |
+<br>
+Click on 👉 <a href="https://github.com/bishtanuj/python/tree/main/Operators#membership-operators">Programs</a> for more practical approach.
+
+##
