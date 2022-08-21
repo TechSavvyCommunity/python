@@ -19,7 +19,7 @@ As a learning entusiast, you have to visit as follows -
 4. [Data Types](/Main/DATA_TYPES.md)
 5. [Data Type Conversion](/Main/DATA_TYPE_CONVERSION.md)
 6. [Operators](/Main/OPERATORS.md)
-7. [Operators Precedence](/Main/PRECEDENCE_OPERATORS.md)
+7. [Precedence of Operators](/Main/PRECEDENCE_OPERATORS.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
