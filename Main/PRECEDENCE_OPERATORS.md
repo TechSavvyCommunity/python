@@ -13,3 +13,6 @@ The following table lists all operators from highest precedence to lowest.
 | 8.  | = <br> Comparison operator  |
 | 9.  | ==, != <br> Equality Operators |
 | 10. | =%, =/, =//, =-, +=, *=, ** = <br> Assignment Operators |
+| 11. | is, is not <br> Identity Operators  |
+| 12. | in, not in <br> Membership Operators  |
+| 13. | NOT, OR, AND <br> Logical Operators |
