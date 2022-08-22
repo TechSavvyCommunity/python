@@ -6,4 +6,4 @@ Python progamming language assumes any non - zero and non - null values as TRUE,
 Python programming language provides following types of decision making statements. Click the following links to check their detail. 
 | S.NO. | STATEMENT | DESCRIPTION |
 | :---: | :---: | :---: |
-| 1.  | <p style="background-color:red;>if statements</p> | An if statements consists of a boolean expression followed by one or more statements. | 
+| 1.  | if statements | An if statements consists of a boolean expression followed by one or more statements. | 
