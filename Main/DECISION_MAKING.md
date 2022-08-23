@@ -7,3 +7,5 @@ Python programming language provides following types of decision making statemen
 | S.NO. | STATEMENT | DESCRIPTION |
 | :---: | :---: | :---: |
 | 1.  | if statements | An if statements consists of a boolean expression followed by one or more statements. | 
+| 2.  | if...else statements | An if statement can be followed by an optional else statement, which executes when the boolean expression is FALSE. |
+| 3.  | nested if statements  | You can use one if or elif (else if) statement inside another if or elif (else if) statement(s).  |
