@@ -14,6 +14,7 @@ Python provides following types of loops to handle looping requirements.
 <b>Python does not support do...while loop, which in general is supported by other programming languages. </b>
 
 ## Syntax
+### While loop
 ```md
 declaration
 
@@ -24,4 +25,14 @@ while(condition):
   .
   .
   statement n
+  
+  increment / decrement
+```
+#### Example
+```md
+i = 0
+while i <= 10:
+  print(i)
+  
+  i += 1
 ```
