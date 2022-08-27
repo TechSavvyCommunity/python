@@ -12,7 +12,7 @@ Python provides following types of loops to handle looping requirements.
 
 ### NOTE
 <b>Python does not support do...while loop, which in general is supported by other programming languages. </b>
-
+<!-- 
 ## Syntax
 ### While loop
 ```md
@@ -36,3 +36,8 @@ while i <= 10:
   
   i += 1
 ```
+
+### for loop 
+```md
+for 
+``` -->
