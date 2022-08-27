@@ -22,7 +22,7 @@ As a learning entusiast, you have to visit as follows -
 7. [Precedence of Operators](/Main/PRECEDENCE_OPERATORS.md)
 8. [Decision Making](/Main/DECISION_MAKING.md)
 9. [Loops](/Main/LOOPS.md)
-10. [Loop Control Statemnts](/Main/LOOP_CONTROL_STATEMENTS.md)
+10. [Loop Control Statements](/Main/LOOP_CONTROL_STATEMENTS.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
