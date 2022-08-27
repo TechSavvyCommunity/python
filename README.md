@@ -21,6 +21,7 @@ As a learning entusiast, you have to visit as follows -
 6. [Operators](/Main/OPERATORS.md)
 7. [Precedence of Operators](/Main/PRECEDENCE_OPERATORS.md)
 8. [Decision Making](/Main/DECISION_MAKING.md)
+9. [Loops](/Main/LOOPS.md)
 
 # :pray: Support
 This project needs a :star: from you. Don't forget to leave a :star:.
